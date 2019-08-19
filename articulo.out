@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introduccion}{}% 1
+\BOOKMARK [1][-]{section.2}{Marco Te\363rico}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Bases de Datos Relacionales}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{SQL}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{\277Por qu\351 aprender SQL?}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{An\341lisis}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{DELETE in MERGE}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Canalizado DML}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{Mejoras CALL}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.4}{Capacidad de busqueda limitada}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.5}{Restricciones de tablas no forzadas}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Conclusiones}{}% 12
